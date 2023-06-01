@@ -1,2 +1,2 @@
 # equipment-store
-Usual shop on php, first project. 
+old study projects. 
